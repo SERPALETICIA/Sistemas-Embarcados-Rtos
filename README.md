@@ -1,4 +1,4 @@
-                O squemático do módulo de relé que deve ser embarcado junto com a placa do nodemcu8266.
+                O esquemático do módulo de relé que deve ser embarcado junto com a placa do nodemcu8266.
 
 ![Captura de tela 2024-06-18 202149](https://github.com/ViZanella/SISTEMAS-EMBARCADOS-RTOS./assets/126624524/2b21af82-89bd-4cc3-93b5-3245f5580270)
 
